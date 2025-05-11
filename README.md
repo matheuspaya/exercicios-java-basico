@@ -10,7 +10,9 @@ Repositório com os 15 exercícios propostos pelo professor, abordando:
 ### Passos:
 1. Clone ou baixe este repositório:
    - Via GitHub: clique em `Code > Download ZIP` e extraia os arquivos.
+
 2. Abra o terminal na pasta onde está o arquivo `geral.js`.
+
 3. Compile o código com:
    ```bash
-   javac Exercicios.java
+   javac geral.js
